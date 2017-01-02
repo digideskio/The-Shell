@@ -86,7 +86,7 @@ h6 a {
   color: #739a99; }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   line-height: 1em;
   text-indent: -3px; }
 
@@ -115,7 +115,7 @@ a {
     color: #a3be8c; }
 
 p, ul, ol {
-  margin: 1.6em 0; }
+  margin: 0.6em 0; }
 
 ol ol, ul ul,
 ul ol, ol ul {
@@ -180,7 +180,7 @@ code, tt {
 
 pre {
   box-sizing: border-box;
-  margin: 1.6em 0;
+  margin: 0.6em 0;
   border: 1px solid #424a5a;
   width: 100%;
   padding: 10px;
